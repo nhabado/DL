@@ -4,48 +4,5 @@
         <Name>BandicamCrack.zip</Name>
         <Url>https://github.com/nhabado/DL/raw/main/BandicamCrack.zip</Url>
     </File>
-    <File>
-        <Name>file2.zip</Name>
-        <Url>https://www.example.com/file2.zip</Url>
-    </File>
-    <File>
-        <Name>file3.zip</Name>
-        <Url>https://www.example.com/file3.zip</Url>
-    </File>
-	<File>
-        <Name>file1.zip</Name>
-        <Url>https://www.example.com/file1.zip</Url>
-    </File>
-    <File>
-        <Name>file2.zip</Name>
-        <Url>https://www.example.com/file2.zip</Url>
-    </File>
-    <File>
-        <Name>file3.zip</Name>
-        <Url>https://www.example.com/file3.zip</Url>
-    </File>
-	<File>
-        <Name>file1.zip</Name>
-        <Url>https://www.example.com/file1.zip</Url>
-    </File>
-    <File>
-        <Name>file2.zip</Name>
-        <Url>https://www.example.com/file2.zip</Url>
-    </File>
-    <File>
-        <Name>file3.zip</Name>
-        <Url>https://www.example.com/file3.zip</Url>
-    </File>
-	<File>
-        <Name>file1.zip</Name>
-        <Url>https://www.example.com/file1.zip</Url>
-    </File>
-    <File>
-        <Name>file2.zip</Name>
-        <Url>https://www.example.com/file2.zip</Url>
-    </File>
-    <File>
-        <Name>file3.zip</Name>
-        <Url>https://www.example.com/file3.zip</Url>
-    </File>
+    
 </Downloads>
